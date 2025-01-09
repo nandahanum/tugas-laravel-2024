@@ -39,9 +39,9 @@ CREATE TABLE `data_user` (
 --
 
 INSERT INTO `data_user` (`id`, `nama`, `no_hp`, `email`) VALUES
-(1, 'choiril anam', '085217933923', 'iriel.just4blog@gmail.com'),
-(3, 'Muhammad Fadol', '085942391212', 'moh.fadhol@gmail.ac.id'),
-(7, 'Endang Susilowati', '082256190344', 'endang.mail@yahoo.com');
+(1, 'Hema Lestari', '082330609360', 'hemanandyahanum@gmail.com'),
+(3, 'Nugroho Wahyu Prakoso', '082332621105', 'anadyagros@gmail.com'),
+(7, 'Andi Perkasa', '082256190344', 'andiperkasa@gmail.com');
 
 -- --------------------------------------------------------
 
